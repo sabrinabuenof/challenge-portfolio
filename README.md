@@ -15,4 +15,4 @@ A página da web tem o propósito de ser um portfólio do projeto Oracle ONE na 
 
 ## 🎬 Imagens / Vídeos 
 
-![tela-portfoflio](https://github.com/Mctks2/challenge-one-portfolio/assets/62295808/d2ddfd69-e8c4-4147-8101-6b3c393fe852)
+![tela-portfoflio]
